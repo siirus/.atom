@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "a7fac7e0-2154-4d94-8c4e-35dc92cca015"
+  core:
+    audioBeep: false
+    closeEmptyWindows: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "activate-power-mode"
+      "file-type-icons"
+      "xkcd-comics"
+      "atom-beautify"
+    ]
+  editor:
+    invisibles: {}
+    tabLength: 4
+  "exception-reporting":
+    userId: "a97771b9-a21d-b5bf-7eab-617a6145c477"
+  "todo-show":
+    sortBy: "Type"
+  welcome:
+    showOnStartup: false
+"file-types":
+  dml: "source.c"

@@ -1,0 +1,16 @@
+"*":
+  core:
+    closeEmptyWindows: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "rulerz"
+    ]
+    openEmptyEditorOnStart: false
+  editor:
+    tabLength: 4
+  "exception-reporting":
+    userId: "7dd43acd-74b4-6d85-8d41-960fbb4ef8cc"
+  "save-session":
+    dataSaveFolder: "C:\\Users\\mbulgako\\.atom\\packages\\save-session\\projects"
+  welcome:
+    showOnStartup: false
